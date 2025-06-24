@@ -41,9 +41,3 @@ These are mini projects I completed as part of ECGR 2104 at UNC Charlotte during
 
 ---
 
-## 💡 Why This Repo Matters
-
-As a rising sophomore, this repository showcases:
-- Your initiative to build real projects with object-oriented design.
-- Practical use of vectors, classes, file separation, and formulas.
-- Your growth in error handling and structuring C++ programs.
